@@ -233,9 +233,31 @@ git remote show wbs18111
 
 3、再push到远程
 
+<<<<<<< HEAD
 
 
 
+=======
+---------------------------------------------------------------------------------
+
+使用github去发布个人静态站点（只能是htm页面、css、js、图片资源等）
+
+1、
+    远程仓库名为wbs18111（Repository命名随意）
+    将本地分支上传到远程的gh-pages（分支名一定如此）
+    https://yufeng2.github.io/wbs18111/switcher.htm
+
+    第一种方式可以设置任意多个个人仓库的发布页面！
+
+2、
+    远程仓库名为yufeng2.github.io（Repository一定如此）
+    将本地分支上传到远程的master（分支名一定如此）
+    https://yufeng2.github.io/switcher.htm
+
+    第二种方式只能有一个（因为Repository就一定是yufeng2.github.io，当然远程只能有一个该名的仓库）
+
+如果页面命名为index.htm，那么直接访问地址（默认作为路径首页显示）！
+>>>>>>> 404e412bb9578345a6bc27fd73b2cd8dddbb4f1a
 
 
 
